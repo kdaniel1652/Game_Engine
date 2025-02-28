@@ -1,0 +1,74 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "level_01_lite.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "level_01 - copia.tmx": {
+            "scale": 0.185546875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1681.515789473684,
+                "y": 3885.8105263157895
+            }
+        },
+        "level_01.tmx": {
+            "scale": 0.125,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1980,
+                "y": 3480
+            }
+        },
+        "level_01_lite.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 982,
+                "y": 805.3333333333333
+            }
+        },
+        "level_01_mega_lite.tmx": {
+            "scale": 0.20145089285714285,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1680.3102493074796,
+                "y": 1792
+            }
+        },
+        "terrain.tsx": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "F:/UCR/Septimo semestre/Videojuegos/Tareas/Tarea 3/Game/Tarea03_KennethVillalobos/Tarea03_KennethVillalobos/assets/img",
+    "map.height": 500,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 210,
+    "openFiles": [
+        "terrain.tsx",
+        "level_01_lite.tmx"
+    ],
+    "project": "level_01.tiled-project",
+    "recentFiles": [
+        "terrain.tsx",
+        "level_01_lite.tmx",
+        "level_01_mega_lite.tmx",
+        "level_01.tmx",
+        "level_01 - copia.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}

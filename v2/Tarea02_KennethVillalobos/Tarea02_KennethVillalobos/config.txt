@@ -1,0 +1,14 @@
+window 800 600
+asset font gameOver_font ./assets/fonts/GameFont.ttf 60
+asset font score_font ./assets/fonts/GameFont.ttf 30
+asset font pause_font ./assets/fonts/GameFont.ttf 50
+asset image player_img ./assets/images/RedTank.png 72 96
+asset image clone_img ./assets/images/BlueTank.png 72 96
+asset image forcefield_img ./assets/images/ForceField.png 287 287
+asset image bullet_img ./assets/images/BulletTripple.png 16 35
+asset image enemy_weak_img ./assets/images/Dino.png 17 18
+asset image enemy_strong_img ./assets/images/Demon.png 12 14
+player player_img 3 150
+bullet bullet_img 450
+enemy enemy_weak_img 50 -100 100 1000
+enemy enemy_strong_img 100 -200 200 2500

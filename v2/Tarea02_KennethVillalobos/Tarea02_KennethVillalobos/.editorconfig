@@ -1,0 +1,4 @@
+# C++ files
+[*.{hpp,h,cpp,c,cc}]
+guidelines = 80, 120
+guidelines_style = 1px dotted white
